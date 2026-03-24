@@ -55,7 +55,7 @@ uniccheck/
 ## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/uniccheck.git
+git clone https://github.com/khaleedolawale/uniccheck
 
 ---
 
